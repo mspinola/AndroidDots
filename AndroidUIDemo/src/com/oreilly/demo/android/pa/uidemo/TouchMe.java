@@ -24,6 +24,7 @@ import com.oreilly.demo.android.pa.uidemo.model.Dot;
 import com.oreilly.demo.android.pa.uidemo.model.Dots;
 import com.oreilly.demo.android.pa.uidemo.view.DotView;
 
+// check in on matt branch -- test
 
 /**
  * Android UI demo program
